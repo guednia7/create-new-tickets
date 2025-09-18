@@ -52,7 +52,7 @@ Next go to the tab the has a small plus sign and reads new ticket. You will need
 
 
 
-Next, go ahead find your user information in the search box or if the user information is not already there, you can go ahead and your user information under new user.
+Next, go ahead find your user information in the search box or if the user information is not already there, you can go ahead and add your user information under new user.
 
 
 
@@ -63,7 +63,7 @@ Next, go ahead find your user information in the search box or if the user infor
 
 
 
-Next, under Ticket information and Options: fill out the field that apply to you. 
+Next, under Ticket information and Options: fill out the field that applies to you. 
 
 
 <img width="687" height="433" alt="Screenshot 2025-09-18 172738" src="https://github.com/user-attachments/assets/25d1ad4f-3029-4ff8-8014-eb555c74222c" />
@@ -75,7 +75,7 @@ Next, under Ticket information and Options: fill out the field that apply to you
 
 
 
-For example, select your help topic: In this tutorieal will select the Report a problem. 
+For example, select your a help topic: In this tutorial we will select "Report a problem." 
 
 
 
@@ -84,7 +84,7 @@ For example, select your help topic: In this tutorieal will select the Report a 
 
 
 
-Next in the comment box write a detail response elaborating the issue. In this tutorial we will state that our epuipement is malfuntioning.
+Next in the comment box write a detail response elaborating the issue. In this tutorial we will state that our equipment is malfuntioning.
 
 
 
@@ -96,7 +96,7 @@ Next in the comment box write a detail response elaborating the issue. In this t
 
 
 
-Last click open near the bottom of the page to open the ticket you created.
+Last click open near the bottom of the page to sumbit the ticket you created.
 
 
 <img width="718" height="487" alt="Screenshot 2025-09-18 173150" src="https://github.com/user-attachments/assets/3260eeef-2f73-459d-a2bd-e4cabdf7e3d3" />
